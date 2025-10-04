@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8fbff;
+    color: #333;
+    text-align: center;
+}
+header {
+    background-color: #0a74da;
+    color: white;
+    padding: 40px 20px;
+}
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+.main img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-bottom: 3px solid #0a74da;
+}
+.main h2 {
+    color: #0a74da;
+    margin-top: 20px;
+}
+footer {
+    background-color: #0a74da;
+    color: white;
+    padding: 15px;
+    font-size: 0.9em;
+}
